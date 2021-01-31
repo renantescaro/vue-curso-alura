@@ -1,18 +1,16 @@
-# alura-pic
+# Curso de Vue Alura
 
-> A Vue.js project
+#### instalar CLI
+* npm install vue-cli@2.7.0 -g
 
-## Build Setup
+#### ver versão
+* vue --version
 
-``` bash
-# install dependencies
-npm install
+#### criar projeto
+* vue init webpack-simple nome-projeto
 
-# serve with hot reload at localhost:8080
-npm run dev
+#### instalar dependencias
+* npm install
 
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+#### Executar projeto
+* npm run dev
